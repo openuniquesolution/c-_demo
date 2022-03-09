@@ -72,6 +72,8 @@
 * all even
 * all prime number
 * length of string. 
+* Is string paladrom?
+* reverse String.
 
 
 ## If else
